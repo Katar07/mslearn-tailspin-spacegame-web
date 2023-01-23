@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KatarinaKolakusic/Space%20Game/_apis/build/status/Katar07.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/KatarinaKolakusic/Space%20Game/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
